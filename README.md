@@ -7,7 +7,7 @@
     # 3 .gitignore file and select python as interpreter
 
 # step 2:
-    # create template.py file and ist all the files and paths.
+    # create template.py file and list all the files and paths.
     # run python template.py and generate all the required files
 
 # step 3:
@@ -27,6 +27,20 @@
 # step 7:
     # create a virtual environment and install python, activate the environment and install the pip
     # requirements from init_setup.sh file
+
+# step 8:
+	# create test_dummy.py in both unit and integration test folder and return assert True
+	# run pytest -v to check whether all the tests are passing
+# step 9:
+	# list the envlist in tox.ini
+	# list of python versions
+	# list all the commands
+	# run tox in the git bash environment
+	# make sure all hte tests are passing
+
+
+	
+
 
 
     
